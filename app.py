@@ -7,7 +7,6 @@ def home():
     return "Hello Ravikumar " 
     APP_ENV=production
     APP_NAME=Flask-demo
-    """
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
